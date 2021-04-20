@@ -12,5 +12,5 @@ addons:
       ant  
 
 script:
-       ant 
+      - ant 
 
